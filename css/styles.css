@@ -1,0 +1,12 @@
+:root {
+    --brand-color: #2E2F42;
+    --brand-text-color: #434455;
+}
+body {
+    font-family: 'Roboto', 'Helvetica Neue', 'Verdana', 'Tahoma', sans-serif;
+    color: var(--brand-color);
+}
+
+a{
+    text-decoration: none;
+}
